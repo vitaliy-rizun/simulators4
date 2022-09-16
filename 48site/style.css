@@ -1,0 +1,9 @@
+.wizard {
+  top: 244px;
+  left: 50px;
+}
+
+.monster {
+  /*transform: skewX(30deg) skewY(30deg);*/
+  transform: skewX(31deg) skewY(31deg);
+}

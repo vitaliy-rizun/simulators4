@@ -1,0 +1,9 @@
+.wizard {
+  top: 344px;
+  left: 10px;
+  transform: translate(-20px, -150px) translate(310px, -110px) translate(200px, 260px);
+}
+
+.world {
+  min-width: 570px;
+}
