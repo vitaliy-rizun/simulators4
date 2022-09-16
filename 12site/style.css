@@ -1,0 +1,9 @@
+@keyframes rotate-colors {
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+.hue-animate img {
+  animation: rotate-colors 2s linear infinite;
+}

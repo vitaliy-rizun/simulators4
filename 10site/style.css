@@ -1,0 +1,7 @@
+.multi-filter-1 img {
+  filter: hue-rotate(90deg) saturate(2) sepia(0.8);
+}
+
+.multi-filter-2 img {
+  filter: sepia(0.8) hue-rotate(90deg) saturate(2);
+}

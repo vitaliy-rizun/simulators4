@@ -1,0 +1,7 @@
+.blur p {
+  filter: blur(2px);
+}
+
+.shadow p {
+  filter: drop-shadow(2px 2px 2px black);
+}

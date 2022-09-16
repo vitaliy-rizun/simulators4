@@ -1,0 +1,30 @@
+.img-1 {
+  filter: contrast(5);
+  /*filter: contrast(500%);*/
+}
+
+.img-2 {
+  filter: invert(1);
+  /*filter: invert(100%);*/
+}
+
+.img-3 {
+  filter: sepia(1);
+  /*filter: sepia(100%);*/
+}
+
+.img-4 {
+  filter: hue-rotate(180deg);
+  /*filter: hue-rotate(-180deg);*/
+}
+
+.img-5 {
+  filter: grayscale(1);
+  /*filter: grayscale(100%);*/
+  /*filter: saturate(0);*/
+}
+
+.img-6 {
+  filter: saturate(5);
+  /*filter: saturate(500%);*/
+}
