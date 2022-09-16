@@ -1,0 +1,9 @@
+input:required {
+  background: url('required.png') no-repeat right 50%;
+  border: 1px solid #e74c3c;
+}
+
+input[type="text"]:optional {
+  background: url("optional.png") no-repeat 100% 50%;
+  border: 1px solid #3498db;
+}
