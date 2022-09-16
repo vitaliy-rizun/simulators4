@@ -1,0 +1,11 @@
+.picture {
+  transition: transform 1s ease;
+  transform: rotate(0deg);
+  transform-origin: 50% 100%;
+  /*transform-origin: bottom left;*/
+  /*transform-origin: top right;*/
+}
+
+.picture.active {
+  transform: rotate(360deg);
+}
